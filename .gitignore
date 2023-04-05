@@ -1,3 +1,5 @@
 # 项目排除路径
 /jwe-application/target/
 /jwe-security-spring-boot-starter/target/
+.idea
+*.iml
